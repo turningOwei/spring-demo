@@ -18,7 +18,7 @@ public class DemoController {
     public Map demo(){
         Map map = new HashMap<>(16);
         map.put("code","1234");
-        map.put("ms","测试");
+        map.put("ms","测试111");
         return map;
     }
 }
